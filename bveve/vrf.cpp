@@ -20,6 +20,6 @@ int main()
            
     }
     
- cout<< "0 no puede ser divisor";
+
     return 0;
 }
